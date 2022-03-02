@@ -53,7 +53,3 @@ File in.txt consists of model parameters, including:
 
 Noise-induced artificial intelligence
 Alex Zhao, Anastasia Ermolaeva, Ekkehard Ullner, Juergen Kurths, Susanna Gordleeva, Alexey Zaikin
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
