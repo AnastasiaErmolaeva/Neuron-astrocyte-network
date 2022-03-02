@@ -1,4 +1,4 @@
-# NeuroAstroNetwork
+# Neuron-astrocyte network model
 
 Here we propose a computational model of neuron-astrocyte network under the influence of multiplicative noise.
 
