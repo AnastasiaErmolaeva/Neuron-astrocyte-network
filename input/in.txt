@@ -1,0 +1,42 @@
+Astrocytes net parameters
+	Quantity of rows				= 43
+	Quantity of cols				= 43
+	Input impulses amplitude (mV)	= 1
+	Input impulses duration	 (s)	= 0.3
+	Input impulses start time(s)	= 70
+	Input impulses frequency (Hz)	= 0.01
+	Input impulses quantity			= -1	// -1 - auto calculation using frequency
+	Impulse frequency type			= 2		// 0 - POISSON, 1 - CONST, 2 - NEVER
+	Impulse amplitude type			= 0 	// 0 - CONST, 1 - RAND
+	Impulse min amplitude			= 0
+	Impulse max amplitude			= 0
+	fixed seed						= 1     // 0 - all impulses are different, 1 - all impulses are identical
+
+Neurons net parameters
+	Quantity of rows				= 130
+	Quantity of cols				= 130
+	Input impulses amplitude (mV)	= 2
+	Input impulses duration	 (ms)	= 10
+	Input impulses start time(s)	= 0
+	Input impulses frequency (Hz)	= 80
+	Input impulses quantity			= -1	// -1 - auto calculation using frequency
+	Impulse frequency type			= 2		// 0 - POISSON, 1 - CONST, 2 - NEVER
+	Impulse amplitude type			= 0 	// 0 - CONST, 1 - RAND
+	Impulse min amplitude			= 0
+	Impulse max amplitude			= 0
+	fixed seed						= 0     // 0 - all impulses are different, 1 - all impulses are identical
+	
+System parameters
+	sigma2							= 0.09
+	Iapp							= 60.
+	Iastro							= 60.
+	Ineuro							= 1.
+	IneuroDuration					= 0.06
+	Du								= 100.
+	Dv								= 100.
+	
+Simulation parameters
+	Time step				 (ms)	= 0.001
+	Simulation duration		 (ms)	= 1500
+	
+ 
