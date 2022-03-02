@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Clone repo:
 ```
-git clone https://github.com/AnastasiaErmolaeva/NeuroAstroNetwork.git
+git clone https://github.com/AnastasiaErmolaeva/Neuron-astrocyte-network-Noise-induced-artificial-intelligence.git
 ```
 
 ### Running the experiment
